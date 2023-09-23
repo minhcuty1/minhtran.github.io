@@ -21,7 +21,7 @@
   flex-direction: column;
 }
 .circle-bg {
-  width: 15% !important;
+  width: 45px !important;
 }
 @media (max-width: 500px) {
   #Mobile-Goal div,
